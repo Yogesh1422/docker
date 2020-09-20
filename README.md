@@ -52,4 +52,8 @@ The application will be available on `http://localhost:8080`.
      </plugins>
    </build>
    ```
+<<<<<<< HEAD
 # jenkins-docker-samole
+=======
+# java-tomcat-docker
+>>>>>>> 18244b92595a378644892a7c399d31f26559cfb6
